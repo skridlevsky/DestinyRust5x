@@ -1,0 +1,33 @@
+# Game files
+Bundles/
+cfg/
+config/
+MonoBleedingEdge/
+steamapps/
+
+# Cache
+appcache/
+
+# Backups
+Backups/
+
+# Data & logs
+RustDedicated_Data/
+userdata/
+logs/
+oxide/logs/
+*.db
+*.db-journal
+*.map
+*.sav
+*.sav.[0-9]
+*.id
+*.txt
+*.dll
+*.log
+cpu.xml
+memory.xml
+
+
+# Server related
+.autoupdateUmod
