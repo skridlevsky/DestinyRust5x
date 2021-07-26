@@ -1,7 +1,9 @@
 # Game files
 Bundles/
 cfg/
+!server/Pingperfect/cfg
 config/
+!oxide/config
 MonoBleedingEdge/
 steamapps/
 
