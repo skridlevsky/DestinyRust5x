@@ -1,7 +1,7 @@
 {
   "Show Traps and Entitys in Kill Feed": true,
-  "Show Animals in Kill Feed": true,
-  "Show Npcs in Kill Feed": true,
+  "Show Animals in Kill Feed": false,
+  "Show Npcs in Kill Feed": false,
   "Show suicides in KillFeed (Default: true)": false,
   "Show radiation kills in KillFeed (Default: true)": true,
   "Chat Icon Id (Steam profile ID)": 76561197960839785,
@@ -49,7 +49,7 @@
     "horse": "Horse"
   },
   "Custom Weapon Names, you can add more!": {
-    "Assault Rifle": "Ak-47",
+    "Assault Rifle": "AK-47",
     "LR-300 Assault Rifle": "LR-300",
     "L96 Rifle": "L96",
     "Bolt Action Rifle": "Bolt",

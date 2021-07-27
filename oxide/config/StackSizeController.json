@@ -4,12 +4,11 @@
   "PreventStackingDifferentSkins": false,
   "HidePrefixWithPluginNameInMessages": false,
   "DisableDupeFixAndLeaveWeaponMagsAlone": false,
-  "GlobalStackMultiplier": 1.0,
+  "GlobalStackMultiplier": 5.0,
   "CategoryStackMultipliers": {
     "Weapon": 1.0,
     "Construction": 5.0,
-    "Items": 5
-.0,
+    "Items": 5.0,
     "Resources": 50.0,
     "Attire": 1.0,
     "Tool": 1.0,

@@ -6,27 +6,27 @@
   "Messages": [
     {
       "Top Status": "<color=#ffff00>DESTINY RUST</color>",
-      "Bottom Status": "<color=#add8e6>Enjoy your stay.</color>"
+      "Bottom Status": ""
     },
     {
       "Top Status": "<color=#add8e6>DESTINY RUST</color>",
-      "Bottom Status": "<color=#ffff00>Enjoy your stay.</color>"
+      "Bottom Status": ""
     }
   ],
   "Enable Queue Messages": false,
   "Queue Messages": [
     {
       "Top Status": "<color=##ffff00>DESTINY RUST</color>",
-      "Bottom Status": "<color=#add8e6>{AHEAD} players ahead of you.</color>"
+      "Bottom Status": ""
     },
     {
       "Top Status": "<color=#add8e6>DESTINY RUST</color>",
-      "Bottom Status": "<color=#ffff00>{BEHIND} players behind you.</color>"
+      "Bottom Status": ""
     }
   ],
   "QueuePosition": null,
   "Last Message (When entering game)": {
     "Top Status": "<color=#ffff00>DESTINY RUST</color>",
-    "Bottom Status": "<color=#008000>Entering game...</color>"
+    "Bottom Status": ""
   }
 }
