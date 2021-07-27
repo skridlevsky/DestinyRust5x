@@ -3,7 +3,7 @@
   "AnnounceOnTimer": true,
   "AnnounceTimer": 3,
   "DateFormat": "MM/dd/yyyy",
-  "DaysBetweenWipes": 14,
+  "DaysBetweenWipes": 7,
   "LastWipe": "",
   "NextWipe": "",
   "UseManualNextWipe": false
