@@ -1,0 +1,6 @@
+{
+  "Incorrect Crafts To Block": 10,
+  "Incorrect Craft Lifetime (In Seconds)": 5.0,
+  "Block Time (In Seconds)": 300.0,
+  "Debug": false
+}
